@@ -6,8 +6,28 @@
 #DAFDBA
 */
 
+#rivertitle {
+  padding: 0.5em;
+  background-color: #012030;
+}
+
+#riversummary {
+  padding-left: 0.75em;
+}
+
 li:hover {
   background-color: #9aeba3;
+}
+
+img {
+  border-color: #dafdba;
+  border: solid 1pt;
+}
+
+section {
+  padding: 0.2em;
+  color: whitesmoke;
+  background-color: #13678a;
 }
 
 nav {
@@ -18,6 +38,15 @@ nav {
 
 header {
   padding: 0.25em;
+  margin-bottom: 0.8em;
   color: whitesmoke;
   background-color: #012030;
+}
+
+body {
+  background-color: rgb(41, 41, 41);
+}
+
+figure {
+  margin: 0.25em;
 }
