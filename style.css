@@ -6,12 +6,12 @@
 #DAFDBA
 */
 
-#rivertitle {
+.rivertitle {
   padding: 0.5em;
   background-color: #012030;
 }
 
-#riversummary {
+.riversummary {
   padding-left: 0.75em;
 }
 
