@@ -6,16 +6,16 @@
 #DAFDBA
 */
 
-.rivertitle {
+.rivertitle { /* Titles on the catalog page */
   padding: 0.5em;
   background-color: #012030;
 }
 
-.riversummary {
+.riversummary { /* Blurbs on the catalog page */
   padding-left: 0.75em;
 }
 
-li:hover {
+li:hover { /* List items that are being hovered */
   background-color: #9aeba3;
 }
 
