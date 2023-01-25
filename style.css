@@ -1,0 +1,20 @@
+/* Color theme
+#012030
+#13678A
+#45C4B0
+#9AEBA3
+#DAFDBA
+*/
+
+
+nav {
+  color: black;
+  padding: 0.3em;
+  background-color: #45c4b0;
+}
+
+header {
+  padding: 0.25em;
+  color: whitesmoke;
+  background-color: #012030;
+}
