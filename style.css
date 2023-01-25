@@ -6,6 +6,9 @@
 #DAFDBA
 */
 
+li:hover {
+  background-color: #9aeba3;
+}
 
 nav {
   color: black;
