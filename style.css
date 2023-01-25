@@ -43,6 +43,10 @@ header {
   background-color: #012030;
 }
 
+footer {
+  color: whitesmoke;
+}
+
 body {
   background-color: rgb(41, 41, 41);
 }
