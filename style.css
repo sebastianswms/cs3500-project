@@ -15,7 +15,7 @@
   padding-left: 0.75em;
 }
 
-li:hover { /* List items that are being hovered */
+a:hover { /* Links that are being hovered */
   background-color: #9aeba3;
 }
 
